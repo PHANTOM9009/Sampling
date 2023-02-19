@@ -6,6 +6,7 @@ following sampling techniques were used:
 2. Structured Sampling
 3. Stratified sampling
 4. cluster sampling
+5. Weighted sampling
 
 for the following ML models
 1. logistic regression
